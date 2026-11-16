@@ -696,7 +696,7 @@ a {
 }
 
 .service-tile__photo {
-  filter: saturate(0.77);
+  filter: saturate(1);
 }
 
 .service-tile__body {
